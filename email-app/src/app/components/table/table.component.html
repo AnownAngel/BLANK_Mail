@@ -1,0 +1,17 @@
+<table>
+  <thead>
+    <tr>
+      <th>Emails</th>
+
+    </tr>
+  </thead>
+  <tbody>
+    <ng-container *ngFor="let mail of mails">
+      <tr>
+        <td><ul><li><strong>{{mail.absender}}</strong></li>
+        <li>{{mail.huhu}}: {{mail.welt}}</li>
+      </ul></td>
+        </tr>
+    </ng-container>
+  </tbody>
+</table>

@@ -1,0 +1,27 @@
+<div class="container">
+    <div class="row">
+        <div class="col-sm-2">
+            <button (click)="getMails()">
+                <img src="../../assets/GMail.png">GMail
+            </button>
+        </div>
+        <div class="col-sm-4">
+            <input type="text" (keyup)="change($event)" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-1">
+            <ul>
+                <li>
+                    <button (click)="getSent()">sent</button>
+                </li>
+                <li>
+                    <button (click)="getMails()">mails</button>
+                </li>
+            </ul>
+        </div>
+        <div class="col-sm-2" id="overflow">
+            <app-table [mails]="mails"></app-table>
+        </div>
+    </div>
+</div>

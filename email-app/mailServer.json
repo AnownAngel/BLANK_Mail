@@ -1,0 +1,78 @@
+{
+  "mails": [
+    {
+      "id": "0",
+      "hallo": "safadfasf",
+      "huhu": true,
+      "welt": "welt"
+    },
+    {
+      "id": "1",
+      "hallo": "123",
+      "huhu": true,
+      "welt": "welt"
+    },
+    {
+      "id": "2",
+      "hallo": "1234",
+      "huhu": true,
+      "welt": "welt"
+    },
+    {
+      "id": "3",
+      "hallo": "1235",
+      "huhu": true,
+      "welt": "welt111"
+    },
+    {
+      "id": "4",
+      "hallo": "1236",
+      "huhu": true,
+      "welt": "welt234"
+    },
+    {
+      "id": "5",
+      "hallo": "12311",
+      "huhu": true,
+      "welt": "weqwlt1234567890101112"
+    }
+  ],
+  "sent": [
+    {
+      "id": "0",
+      "hallo": "safadfasf",
+      "huhu": true,
+      "welt": "welt"
+    },
+    {
+      "id": "1",
+      "hallo": "123",
+      "huhu": true,
+      "welt": "welasdt"
+    },
+    {
+      "id": "2",
+      "hallo": "12asdasd34",
+      "huhu": true,
+      "welt": "weasdasdasdlt"
+    },
+    {
+      "id": "3",
+      "hallo": "12asdas35",
+      "huhu": true,
+      "welt": "welasdt111"
+    },
+    {
+      "id": "4",
+      "hallo": "12asdasda36",
+      "huhu": true,
+      "welt": "weasdasdlt234"
+    },
+    {
+      "id": "5",
+      "hallo": "12asdasdasd311",
+      "huhu": true,
+      "welt": "weqdasdasdasdasdwlt"
+    }
+  ]
+}
